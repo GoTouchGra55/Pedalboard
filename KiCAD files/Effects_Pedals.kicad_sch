@@ -1,0 +1,266 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e8c598df-7c41-4c1d-9f04-953345b4bea2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 214.63 52.07)
+		(size 41.91 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6ef3d247-090b-4b00-8fd9-698186eb3190")
+		(property "Sheetname" "POWER"
+			(at 214.63 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 214.63 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 34.29 106.68)
+		(size 50.8 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8114b0e3-c2c0-476d-88cb-94f2c229a543")
+		(property "Sheetname" "Delay"
+			(at 34.29 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Delay.kicad_sch"
+			(at 34.29 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 106.68)
+		(size 63.5 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a3f51523-ad2f-41ba-9e48-d2e3aba41182")
+		(property "Sheetname" "Chorus"
+			(at 100.33 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Chorus.kicad_sch"
+			(at 100.33 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 52.07)
+		(size 60.96 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f6978385-2da9-4cd1-951f-87e5cae02bf3")
+		(property "Sheetname" "Tremolo"
+			(at 144.78 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Tremolo.kicad_sch"
+			(at 144.78 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 106.68)
+		(size 78.74 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fb1ba281-3b1c-421a-80b2-6720a942ccc8")
+		(property "Sheetname" "Compressor"
+			(at 177.8 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Compressor.kicad_sch"
+			(at 177.8 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 52.07)
+		(size 67.31 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc4c400f-de0d-491e-b5ba-c83ed8f0ca8c")
+		(property "Sheetname" "OD_Dist"
+			(at 58.42 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drive.kicad_sch"
+			(at 58.42 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Effects_Pedals"
+				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
