@@ -48,7 +48,7 @@
 		)
 	)
 	(sheet
-		(at 34.29 106.68)
+		(at 106.68 106.68)
 		(size 50.8 38.1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "8114b0e3-c2c0-476d-88cb-94f2c229a543")
 		(property "Sheetname" "Delay"
-			(at 34.29 105.9684 0)
+			(at 106.68 105.9684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "Delay.kicad_sch"
-			(at 34.29 145.3646 0)
+			(at 106.68 145.3646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90,7 +90,7 @@
 		)
 	)
 	(sheet
-		(at 100.33 106.68)
+		(at 172.72 106.68)
 		(size 63.5 39.37)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +106,7 @@
 		)
 		(uuid "a3f51523-ad2f-41ba-9e48-d2e3aba41182")
 		(property "Sheetname" "Chorus"
-			(at 100.33 105.9684 0)
+			(at 172.72 105.9684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "Chorus.kicad_sch"
-			(at 100.33 146.6346 0)
+			(at 172.72 146.6346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -174,49 +174,7 @@
 		)
 	)
 	(sheet
-		(at 177.8 106.68)
-		(size 78.74 40.64)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "fb1ba281-3b1c-421a-80b2-6720a942ccc8")
-		(property "Sheetname" "Compressor"
-			(at 177.8 105.9684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Compressor.kicad_sch"
-			(at 177.8 147.9046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Effects_Pedals"
-				(path "/e8c598df-7c41-4c1d-9f04-953345b4bea2"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 58.42 52.07)
+		(at 64.77 52.07)
 		(size 67.31 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -232,7 +190,7 @@
 		)
 		(uuid "fc4c400f-de0d-491e-b5ba-c83ed8f0ca8c")
 		(property "Sheetname" "OD_Dist"
-			(at 58.42 51.3584 0)
+			(at 64.77 51.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -241,7 +199,7 @@
 			)
 		)
 		(property "Sheetfile" "Drive.kicad_sch"
-			(at 58.42 94.5646 0)
+			(at 64.77 94.5646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
