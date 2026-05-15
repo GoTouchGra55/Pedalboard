@@ -1,6 +1,8 @@
 # Multi-Effects Pedal Board
 
-A custom guitar effects pedal board consisting of multiple effects into a single unit. (Designed for learning purposes obv)
+A custom multi-effects guitar pedal board combining several audio effects into one compact unit. Designed primarily as a learning project to explore analog audio circuits, signal processing, and embedded control systems (obv).
+
+Also I needed effects pedals and those things are absurdly expensive ;')
 
 ---
 
